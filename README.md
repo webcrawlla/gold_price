@@ -12,4 +12,6 @@
 
 See screenshot [here](http://www.goldirainvesttoday.com/skins/1280-screenshot.jpg)
 
+![Gold Price Chart](http://www.goldirainvesttoday.com/wp-content/uploads/price-chart.png)
+
 *** Enjoy ***
